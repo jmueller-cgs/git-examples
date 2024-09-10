@@ -6,6 +6,9 @@ things to cover:
 - git add, commit, push
 - pulling and merging
 - vs code
+  - sidebar guide
+  - diffs + inline revert
+  - infinite undo?
 - git lens
 - advanced topics: stashing, rebasing
 
