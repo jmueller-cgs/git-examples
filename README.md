@@ -4,8 +4,8 @@ things to cover:
 
 - git vs. svn
 - command line git
-- git add, commit, push
-- pulling and merging
+  - status, add, commit, push
+- cloning, pulling and merging
 - vs code
   - sidebar guide
   - diffs + inline revert
