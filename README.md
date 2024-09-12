@@ -27,6 +27,7 @@ use cases to cover:
 - documentation/history of changes
 - managing versions
 - collaborating
+- building, testing, deployment
 
 links:
 
