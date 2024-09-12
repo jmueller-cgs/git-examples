@@ -3,17 +3,23 @@
 things to cover:
 
 - git vs. svn
+  - small and fast
+  - flexible
+    - production/staging/test
+    - feature based workflow
+    - disposable experimentation
+  - distributed
+  - free and open source
 - command line git
   - status, add, commit, push
-- cloning, pulling and merging
+  - cloning, pulling and merging
+  - branches, pull requests
 - vs code
   - sidebar guide
   - diffs + inline revert
 - git lens
   - inline commit info
   - visual history of files
-  - infinite undo?
-- advanced topics: stashing, rebasing
 
 use cases to cover:
 
@@ -21,3 +27,8 @@ use cases to cover:
 - documentation/history of changes
 - managing versions
 - collaborating
+
+links:
+
+- https://training.github.com/downloads/github-git-cheat-sheet/
+- https://git-scm.com/docs
