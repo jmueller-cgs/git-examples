@@ -1,6 +1,7 @@
 # git-examples
 
 things to cover:
+
 - git vs. svn
 - command line git
 - git add, commit, push
@@ -8,11 +9,14 @@ things to cover:
 - vs code
   - sidebar guide
   - diffs + inline revert
-  - infinite undo?
 - git lens
+  - inline commit info
+  - visual history of files
+  - infinite undo?
 - advanced topics: stashing, rebasing
 
 use cases to cover:
+
 - client wants to revert change
 - documentation/history of changes
 - managing versions
