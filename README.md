@@ -18,13 +18,12 @@ Things to cover:
   - sidebar guide
   - diffs & inline revert
 - git lens
-
   - inline commit info
   - visual history of files
 
 Use cases to cover:
 
-- client wants to revert change, more...
+- client wants to revert change
 - documentation/history of changes
   - tracking down bugs
   - help with timesheets :)
@@ -40,5 +39,3 @@ Links:
 - Official Git docs: https://git-scm.com/docs
 - VS Code: https://code.visualstudio.com/
 - GitLens: https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
-
-include("v3");
