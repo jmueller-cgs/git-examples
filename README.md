@@ -30,6 +30,7 @@ use cases to cover:
 - managing versions
 - collaborating
 - building, testing, deployment
+- additional features: stash, cherry picking
 
 links:
 
