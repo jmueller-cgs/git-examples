@@ -21,7 +21,7 @@ Things to cover:
   - inline commit info
   - visual history of files
  
-  - change
+  - change this
 
 Use cases to cover:
 
