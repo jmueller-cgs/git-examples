@@ -25,11 +25,14 @@ use cases to cover:
 
 - client wants to revert change
 - documentation/history of changes
+  - help with timesheets :)
 - managing versions
 - collaborating
 - building, testing, deployment
 
 links:
 
-- https://training.github.com/downloads/github-git-cheat-sheet/
-- https://git-scm.com/docs
+- Git cheat sheet: https://training.github.com/downloads/github-git-cheat-sheet/
+- Official Git docs: https://git-scm.com/docs
+- VS Code: https://code.visualstudio.com/
+- GitLens: https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
