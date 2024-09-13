@@ -2,7 +2,7 @@
 
 Things to cover:
 
-- Git vs. SVN
+- Git vs. SVN (Subversion)
   - small and fast
   - flexible
     - production/staging/test
