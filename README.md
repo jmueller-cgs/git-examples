@@ -1,8 +1,8 @@
-# git-examples
+# Git Examples
 
-things to cover:
+Things to cover:
 
-- git vs. svn
+- Git vs. SVN
   - small and fast
   - flexible
     - production/staging/test
@@ -10,18 +10,18 @@ things to cover:
     - disposable experimentation
   - distributed
   - free and open source
-- command line git
+- Command line Git
   - status, add, commit, push
   - cloning, pulling and merging
   - branches, pull requests
-- vs code
+- Visual Studio Code
   - sidebar guide
   - diffs + inline revert
 - git lens
   - inline commit info
   - visual history of files
 
-use cases to cover:
+Use cases to cover:
 
 - client wants to revert change
 - documentation/history of changes
@@ -33,7 +33,7 @@ use cases to cover:
 - building, testing, deployment
 - additional features: stash, cherry picking
 
-links:
+Links:
 
 - Git cheat sheet: https://training.github.com/downloads/github-git-cheat-sheet/
 - Official Git docs: https://git-scm.com/docs
