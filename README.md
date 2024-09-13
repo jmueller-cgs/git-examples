@@ -22,11 +22,9 @@ Things to cover:
   - inline commit info
   - visual history of files
 
-  - change this
-
 Use cases to cover:
 
-- client wants to revert change
+- client wants to revert change, more...
 - documentation/history of changes
   - tracking down bugs
   - help with timesheets :)
