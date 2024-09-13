@@ -18,10 +18,11 @@ Things to cover:
   - sidebar guide
   - diffs & inline revert
 - git lens
+
   - inline commit info
   - visual history of files
- 
-  - change
+
+  - change here
 
 Use cases to cover:
 
