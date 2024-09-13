@@ -20,8 +20,6 @@ Things to cover:
 - git lens
   - inline commit info
   - visual history of files
- 
-  - change this
 
 Use cases to cover:
 
