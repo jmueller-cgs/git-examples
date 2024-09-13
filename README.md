@@ -25,6 +25,7 @@ use cases to cover:
 
 - client wants to revert change
 - documentation/history of changes
+  - tracking down bugs
   - help with timesheets :)
 - managing versions
 - collaborating
