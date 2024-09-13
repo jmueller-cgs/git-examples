@@ -26,6 +26,7 @@ use cases to cover:
 - client wants to revert change
 - documentation/history of changes
   - help with timesheets :)
+  - quick view of when features were added
 - managing versions
 - collaborating
 - building, testing, deployment
