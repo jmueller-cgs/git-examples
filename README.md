@@ -22,7 +22,7 @@ Things to cover:
   - inline commit info
   - visual history of files
 
-  - change here
+  - change this
 
 Use cases to cover:
 
@@ -42,3 +42,5 @@ Links:
 - Official Git docs: https://git-scm.com/docs
 - VS Code: https://code.visualstudio.com/
 - GitLens: https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
+
+include("v2");
