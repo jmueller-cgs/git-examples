@@ -16,7 +16,7 @@ Things to cover:
   - branches, pull requests
 - Visual Studio Code
   - sidebar guide
-  - diffs + inline revert
+  - diffs & inline revert
 - git lens
   - inline commit info
   - visual history of files
