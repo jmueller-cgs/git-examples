@@ -27,6 +27,7 @@ use cases to cover:
 - documentation/history of changes
   - tracking down bugs
   - help with timesheets :)
+  - quick view of when features were added
 - managing versions
 - collaborating
 - building, testing, deployment
