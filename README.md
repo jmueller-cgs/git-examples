@@ -31,7 +31,7 @@ use cases to cover:
 - managing versions
 - collaborating
 - building, testing, deployment
-- other features: stashing
+- additional features: stash, cherry picking
 
 links:
 
